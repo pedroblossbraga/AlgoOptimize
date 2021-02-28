@@ -1,5 +1,5 @@
 # AlgoOptimize
-Some topics in algorithm optimization
+Some topics in algorithm optimization.
 
 ## Vector_search_optimization.ipynb
 - Adressing a search optimization problem
